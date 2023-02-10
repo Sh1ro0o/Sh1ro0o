@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development, game development, random fun programming
 - 🌱 I’m currently learning C#, Angular.
 - 💞️ I’m looking to collaborate on web development, game development
-- 📫 How to reach me david.pintar00@gmail.com
 
 <!---
 Sh1ro0o/Sh1ro0o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
