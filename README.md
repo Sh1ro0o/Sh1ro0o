@@ -1,4 +1,4 @@
-- 👋 Hi, I'm David
+- 👋 Hi, I'm David 😄
 - 👀 I’m interested in, .NET, ANGULAR, AZURE STACK, game development, random fun programming
 - 💞️ I’m looking to collaborate
 
